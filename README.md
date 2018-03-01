@@ -4,9 +4,9 @@
 ## Clone the Repository to your local machine
 `git clone https://github.com/achintyapataskar/pcp_htop.git`
 ## Change directory into this cloned repository and run make command
-`cd pcp_htop
+`cd pcp_htop`
 
-make`
+`make`
 ## Run the program
 `./test`
 ## Finding the documentation
